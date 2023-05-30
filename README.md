@@ -1,5 +1,4 @@
 # SUDOKU SOLVER (C++ with Qt)
-# DA-3 of 22BCE1238 for BCSE102L (Slot-G1)
 
 # DESCRIPTION :
 The Sudoku Solver project is a C++ application developed with the Qt framework that solves Sudoku puzzles programmatically. Sudoku is a popular logic-based puzzle game that involves filling a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 sub-grids contains all of the digits from 1 to 9 without repetition. This application is designed to solve Sudoku puzzles of varying difficulty levels, helping users find solutions quickly and effortlessly.
