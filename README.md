@@ -21,9 +21,11 @@ After pressing the "SOLVE THE SUDOKU" Button:
 
 # Installation
 Download "First release" from releases and extract the contents to a folder.
+
 Then run Main.exe.
 
 # Usage
 After the Mainwindow pop up opens, fill the 9x9 grid with a minimum of 17 valid entries.
+
 Then, click on the "Solve the Sudoku" button, this will create the solution grid to the right of the Input grid.
 
