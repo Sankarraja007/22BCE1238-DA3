@@ -1,7 +1,7 @@
-SUDOKU SOLVER
-Digital Assignment 3 of 22BCE1238 for the subject BCSE102L (Slot-G1)
+# SUDOKU SOLVER
+# Digital Assignment 3 of 22BCE1238 for the subject BCSE102L (Slot-G1)
 
-DESCRIPTION :
+# DESCRIPTION :
 Sudoku Solver is a GUI application built using QT Framework and C++ programming language. 
 It is used to solve Sudoku puzzles with atleast 17 valid entries in the number grid. 
 After you input the numbers in their correct positions, clicking " SOLVE THE SUDOKU " will make the answer (solution grid) pop up next to the Quesstion grid.
@@ -14,3 +14,5 @@ After giving the inputs:
 
 After pressing the "SOLVE THE SUDOKU" Button:
 ![solution](https://github.com/Sankarraja007/Sudoku-Solver/assets/94210194/15af06f9-5977-430d-884a-ecad0a2aca2b)
+
+
