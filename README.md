@@ -50,5 +50,5 @@ Contributions are welcome and appreciated. To contribute to the Sudoku Solver pr
 4. Submit a pull request describing your changes and their purpose.
 
 # License
-This project is licensed under https://github.com/Sankarraja007/Sudoku-Solver/blob/main/LICENSE
+This project is licensed under GNU General Public License v3.0 -> https://github.com/Sankarraja007/Sudoku-Solver/blob/main/LICENSE
 
