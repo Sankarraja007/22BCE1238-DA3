@@ -3,7 +3,7 @@
 
 # DESCRIPTION :
 The Sudoku Solver project is a C++ application developed with the Qt framework that solves Sudoku puzzles programmatically. Sudoku is a popular logic-based puzzle game that involves filling a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 sub-grids contains all of the digits from 1 to 9 without repetition. This application is designed to solve Sudoku puzzles of varying difficulty levels, helping users find solutions quickly and effortlessly.
-For the application to work, there should be atleast 17 valid entries in the 9x9 grid. 
+For the application to work, the user shouldn't repeat any numbers in the same row, column, or 3x3 box.
 After you input the numbers in their correct positions, clicking " SOLVE THE SUDOKU " will make the answer (solution grid) pop up next to the Question grid.
 
 The Introductory Main Window:
@@ -25,7 +25,7 @@ Download "First release" from releases and extract the contents to a folder.
 Then run Main.exe.
 
 # Usage
-After the Mainwindow pop up opens, fill the 9x9 grid with a minimum of 17 valid entries.
+After the Mainwindow pop up opens, fill the 9x9 grid with combination of numbers such that the same number doesn't repeat itself in the same row, column, or the 3x3 box to which it belongs
 
 Then, click on the "Solve the Sudoku" button, this will create the solution grid to the right of the Input grid.
 
