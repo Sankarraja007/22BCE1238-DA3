@@ -29,3 +29,6 @@ After the Mainwindow pop up opens, fill the 9x9 grid with combination of numbers
 
 Then, click on the "Solve the Sudoku" button, this will create the solution grid to the right of the Input grid.
 
+For a Sudoku to have only 1 possible solution, there should be a minimum of 17 valid entries (non-repetitive in same row, column, or box) in the 9x9 grid.
+But, if less than 17 valid entries are provided, the app will provide only 1 out of the many possible solutions.
+
