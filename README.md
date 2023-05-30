@@ -1,2 +1,2 @@
-# 22BCE1238-DA3
+SUDOKU SOLVER
 Digital Assignment 3 for BCSE102L
